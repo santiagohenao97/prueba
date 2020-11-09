@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 500px;
+}
+Img:hover {
+  filter: opacity(0.7);
+}
+p {
+  text-align: justify;
+}

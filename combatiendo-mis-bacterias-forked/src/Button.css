@@ -1,0 +1,13 @@
+.botton {
+  background-color: black;
+  text-emphasis: none;
+  position: relative;
+}
+input {
+  font: center;
+  width: 100%;
+  background: forestgreen;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+}

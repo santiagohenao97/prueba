@@ -1,0 +1,41 @@
+h1 {
+  background: forestgreen;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-weight: 100;
+  font-size: 30px;
+  border-top-left-radius: 7px;
+  border-bottom: 5px solid black;
+}
+form {
+  margin: 0 0 15px;
+  padding: 15px;
+  width: 98%;
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  border-radius: 7px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.cont-100 {
+  width: 100%;
+  padding: 10px;
+}
+.btn-enviar {
+  font: center;
+  width: 100%;
+  background: forestgreen;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+}
+.btn-enviar:active {
+  transform: scale(1.05);
+}
+.form-link {
+  width: 100%;
+  margin: 7px;
+  text-align: center;
+  font-size: 14px;
+}

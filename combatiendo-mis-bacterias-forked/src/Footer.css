@@ -1,0 +1,17 @@
+footer {
+  background-color: aqua;
+  text-align: center;
+}
+.foto1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  transition: background-color 0.5s;
+}
+img:hover {
+  filter: opacity(0.7);
+}
+.d-block {
+  width: 700px;
+  height: 500px;
+}
